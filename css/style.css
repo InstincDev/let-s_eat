@@ -1,0 +1,79 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+header{
+  margin: 1rem 2rem ;
+}
+
+
+h2{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+  margin: 0;
+}
+
+
+img{
+  display: block;
+  margin: 0 auto;
+  height: 400px;
+}
+
+.card{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 2rem;
+}
+
+.hidden{
+  display : none;
+}
+
+.imgIngre{
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 1rem;
+
+  border: .5rem solid black;
+}
+
+.ingre{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 1rem;
+}
+
+.ingredientList{
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  padding: 0;
+  margin: 1rem 1rem 0 1rem;
+}
+.instructions{
+  margin: 1.5rem 2rem;
+}
+
+.instruct{
+  margin: 0 2rem;
+  line-height: 1.5rem;
+}
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
