@@ -1,7 +1,7 @@
 # lets_eat
 Random Recipe Renerator created using [TheMealDB](themealdb.com) API
 
-Each recipe displays an image of the completed meal, a detailed recipe and the serving size.
+Each recipe also displays an image of the completed meal and a list of ingredients.
 
 ## Screenshots
 
