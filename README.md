@@ -3,15 +3,15 @@ Random Recipe Renerator created using [TheMealDB](themealdb.com) API
 
 Each recipe also displays an image of the completed meal and a list of ingredients.
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
 ## Demo
+![lets_eat](https://user-images.githubusercontent.com/67307808/188708701-78158d61-678a-4ccc-8728-c3336165bcf6.gif)
 
 https://lets-eat-instincdev.netlify.app
 
+
+## Screenshots
+
+![lets_eat](https://user-images.githubusercontent.com/67307808/188708719-201b9e21-73cc-48e3-ab16-ce980267f593.png)
 
 ## Tech Used
 
